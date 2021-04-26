@@ -8,6 +8,16 @@
 * Player can play snake game using arrows 
 * After game over player can see the score and speed
 
+Build | Code Quality | Unity | 
+-----------------|-----------------|-----------------|
+[![C/C++ CI](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/c-cpp.yml) | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/a1be445a6525487dad81df49aedd6d91)](https://www.codacy.com/gh/AG264873/stepin-C-miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AG264873/stepin-C-miniproject&amp;utm_campaign=Badge_Grade) | [![Unit Testing - Unity](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Unit-Testing.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Unit-Testing.yml) |
+ 
+ 
+ 
+ | Code Coverage | CppCheck |[Git Inspector](using github.io option) |
+ | -------------------------------| -------------------------------| -------------------------------|
+ |  [![Code Coverage](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/code-coverage.yml) | [![cppcheck-action](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/cppcheck.yml)  | [![Contribution Check - Git Inspector](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Git_Inspector.yml)|
+
 
 ## Folder Structure
 Folder             | Description
