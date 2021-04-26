@@ -29,6 +29,6 @@ int main(){
         confirm='y';
     }
     UNITY_BEGIN();
-    RUN_TEST(control);
+   // RUN_TEST(control);
     return UNITY_END();
 }
