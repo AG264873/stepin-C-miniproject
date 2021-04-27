@@ -14,9 +14,9 @@ Build | Code Quality | Unity |
  
  
  
- | Code Coverage | CppCheck |[Git Inspector](using github.io option) |
- | -------------------------------| -------------------------------| -------------------------------|
- |  [![Code Coverage](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/code-coverage.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/code-coverage.yml) | [![cppcheck-action](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/cppcheck.yml)  | [![Contribution Check - Git Inspector](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Git_Inspector.yml)|
+| CppCheck |[Git Inspector](using github.io option) |
+| -------------------------------| -------------------------------|
+| [![cppcheck-action](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/cppcheck.yml)  | [![Contribution Check - Git Inspector](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Git_Inspector.yml/badge.svg)](https://github.com/AG264873/stepin-C-miniproject/actions/workflows/Git_Inspector.yml)|
 
 
 ## Folder Structure
